@@ -1,4 +1,4 @@
-# 📚 Shadi's Library - Kütüphane Yönetim Sistemi
+# 📚  Library - Kütüphane Yönetim Sistemi
 
 Shadi's Library, kütüphaneciler ve öğrencilerin web tabanlı bir arayüz üzerinden kitap kataloglarını keşfetmelerine, ödünç alma/iade süreçlerini takip etmelerine ve gelişmiş rezervasyon sıraları ile analitik raporlar oluşturmalarına olanak tanıyan, full-stack dinamik bir **Kütüphane Yönetim Sistemi** uygulamasıdır. 
 
